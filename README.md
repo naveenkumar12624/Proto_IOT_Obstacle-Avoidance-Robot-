@@ -1,4 +1,4 @@
-# Obstacle Avoidance Robot
+# EX.NO-06 - Obstacle Avoidance Robot
 
 ##  AIM:
 To design and simulate Obstacle Avoidance Robot using Arduino UNO controller.
@@ -36,7 +36,7 @@ The IR sensors are used for obstacle detection. The sensor output signal sends t
 
 
 ## PROGRAM:
-```
+```c
 const int fs = 0; 
 const int rs = 1;
 const int ls = 2;
@@ -134,15 +134,14 @@ else  if (switchfs==1 && switchrs==1&& switchls==0)
 ```
 
 ## CIRCUIT DIAGRAM:
-
 ![roboCD](https://github.com/Yuvakrishna0/Obstacle-Avoidance-Robot-/assets/117915037/8a526158-d65e-492b-a27f-5c5f5c035202)
 
 ## OUTPUT:
 ![roboOUT1](https://github.com/Yuvakrishna0/Obstacle-Avoidance-Robot-/assets/117915037/a7dddf5e-d431-4b87-847e-bc9b5daa7f2f)
-<br>
+
 ![roboOUT2](https://github.com/Yuvakrishna0/Obstacle-Avoidance-Robot-/assets/117915037/5a7ebdfe-7ba4-440c-8acb-5d55ce99a9e4)
-<br>
+
 ![roboOUT3](https://github.com/Yuvakrishna0/Obstacle-Avoidance-Robot-/assets/117915037/0867f379-aac7-4dce-b726-c3c156bdf7d1)
-<br>
+
 ## RESULT:
 Thus the Obstacle Avoidance Robot was designed and simulated using Proteus software.
